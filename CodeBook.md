@@ -5,7 +5,7 @@ The file 'run_analysis.R` execute 5 steps to clean up the data.
 * First, I read all the files, rename the cols and make a merge with training_set and test_set.
 * Second, I get only the columns with the mean and standard deviation measures.
 * Third, I merge de result with the activities names.
-* Forth, I corrected de column names.
+* Fourth, I corrected de column names.
 * Finally, I calculate the average of the columns and generate the tidy data.
 
 # Variables
